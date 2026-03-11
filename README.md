@@ -7,3 +7,7 @@ SkinGetBE は、Minecraft Bedrock Edition（以下 BE）の通信仕様を解析
 # 参考元
 
 https://github.com/androidprod/SkinGetBE
+
+## ライセンス
+
+MIT License
